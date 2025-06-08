@@ -1,4 +1,4 @@
-<h1 align="center"> INNOVAEDU - Aplicación de ChatBot 🤖💬</h1> <div align="center"> <img src="[https://i.postimg.cc/6psGzxf8/Dermabot.jpg](https://i.postimg.cc/d1zFDbQQ/LOGO2.jpg)" width="300" alt="LOGO"> </div> <div align="center"> <h2>✨ Simplifica tu Diagnóstico de Dermatitis ✨</h2> </div>
+<h1 align="center"> INNOVAEDU - Aplicación de ChatBot 🤖💬</h1> <div align="center"> <img src="https://i.postimg.cc/d1zFDbQQ/LOGO2.jpg" width="300" alt="LOGO"> </div> <div align="center"> <h2>✨ Simplifica tu Diagnóstico de Dermatitis ✨</h2> </div>
 📱 Sobre DermBot 🤖
 El proyecto DermBot es una innovadora aplicación de mensajería instantánea que ayuda a los usuarios a identificar tipos de dermatitis mediante el análisis de imágenes. La interfaz simula una conversación con un asistente virtual del centro de salud, proporcionando una experiencia fluida y accesible.
 
